@@ -223,5 +223,65 @@
     "file": "45_parchment.png",
     "style": "parchment",
     "quote": "They call it obsession in a man like him, and devotion in a man they approve of."
+  },
+  {
+    "file": "46_velvet_plum.png",
+    "style": "velvet_plum",
+    "quote": "She knew he was dangerous. She stayed anyway."
+  },
+  {
+    "file": "47_ash.png",
+    "style": "ash",
+    "quote": "He wasn't safe. That was the entire point."
+  },
+  {
+    "file": "48_velvet_teal.png",
+    "style": "velvet_teal",
+    "quote": "When he says 'mine,' it isn't a metaphor."
+  },
+  {
+    "file": "49_ink.png",
+    "style": "ink",
+    "quote": "He doesn't share. He never learned how."
+  },
+  {
+    "file": "50_dusk.png",
+    "style": "dusk",
+    "quote": "I was a warning. He read me like an invitation."
+  },
+  {
+    "file": "51_oxblood.png",
+    "style": "oxblood",
+    "quote": "Run, he said—already blocking the door."
+  },
+  {
+    "file": "52_marble.png",
+    "style": "marble",
+    "quote": "He loves quietly. He ruins loudly."
+  },
+  {
+    "file": "53_velvet_burgundy.png",
+    "style": "velvet_burgundy",
+    "quote": "Good men bored me. Then he walked in."
+  },
+  {
+    "file": "54_shadow.png",
+    "style": "shadow",
+    "quote": "He'd burn the world. I'd hand him the match."
+  },
+  {
+    "file": "55_candle.png",
+    "style": "candle",
+    "quote": "He didn't chase me. He waited. I still lost."
+  },
+  {
+    "file": "56_velvet_emerald.png",
+    "style": "velvet_emerald",
+    "quote": "Some men protect you. He owned me."
+  },
+  {
+    "file": "57_silk.png",
+    "style": "silk",
+    "quote": "The good guy warned me about him. He was right."
   }
 ]
