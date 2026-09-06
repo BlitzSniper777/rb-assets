@@ -55,23 +55,173 @@
     "quote": "I stopped counting the exits the night I realised I'd stopped looking for them."
   },
   {
-    "file": "12_marble.png",
-    "style": "marble",
+    "file": "12_velvet_plum.png",
+    "style": "velvet_plum",
     "quote": "You were never a choice, he told me. You were the one thing I refused to survive without."
   },
   {
-    "file": "13_velvet_burgundy.png",
-    "style": "velvet_burgundy",
+    "file": "13_ash.png",
+    "style": "ash",
     "quote": "He ruined me so carefully that I thanked him for it."
   },
   {
-    "file": "14_shadow.png",
-    "style": "shadow",
+    "file": "14_velvet_teal.png",
+    "style": "velvet_teal",
     "quote": "I should have run. Instead I learned the shape of his hands in the dark."
   },
   {
-    "file": "15_candle.png",
-    "style": "candle",
+    "file": "15_ink.png",
+    "style": "ink",
     "quote": "You are not a soft thing to be kept, he said. You are the reason men like me never sleep."
+  },
+  {
+    "file": "16_dusk.png",
+    "style": "dusk",
+    "quote": "He wasn't safe. He was just mine—and somehow that turned out to be the same thing."
+  },
+  {
+    "file": "17_oxblood.png",
+    "style": "oxblood",
+    "quote": "I gave him the worst of me first. He looked at it like a man reading his own name."
+  },
+  {
+    "file": "18_marble.png",
+    "style": "marble",
+    "quote": "Other men wanted to be loved. He wanted to be the reason I couldn't leave."
+  },
+  {
+    "file": "19_velvet_burgundy.png",
+    "style": "velvet_burgundy",
+    "quote": "He didn't promise to be good. He promised to be there when the good men ran."
+  },
+  {
+    "file": "20_shadow.png",
+    "style": "shadow",
+    "quote": "I was built out of everyone who left. He stayed just to prove that he could."
+  },
+  {
+    "file": "21_candle.png",
+    "style": "candle",
+    "quote": "He touched me like a secret he had every intention of keeping."
+  },
+  {
+    "file": "22_velvet_emerald.png",
+    "style": "velvet_emerald",
+    "quote": "He learned my silences before he ever learned my name."
+  },
+  {
+    "file": "23_silk.png",
+    "style": "silk",
+    "quote": "I wanted to be wanted. He wanted to be needed. We ruined each other beautifully."
+  },
+  {
+    "file": "24_smoke.png",
+    "style": "smoke",
+    "quote": "He said he'd burn it all down for me. The terrifying part was that I believed him."
+  },
+  {
+    "file": "25_velvet_navy.png",
+    "style": "velvet_navy",
+    "quote": "Some loves arrive like weather. He arrived like a verdict."
+  },
+  {
+    "file": "26_rose.png",
+    "style": "rose",
+    "quote": "He kept his voice low, and my whole world went quiet to hear it."
+  },
+  {
+    "file": "27_rain.png",
+    "style": "rain",
+    "quote": "I told him I was too much. He said he'd never once been afraid of drowning."
+  },
+  {
+    "file": "28_parchment.png",
+    "style": "parchment",
+    "quote": "He didn't rescue me. He handed me the knife and stood behind me."
+  },
+  {
+    "file": "29_velvet_plum.png",
+    "style": "velvet_plum",
+    "quote": "The devil, they said. They forgot to mention how gently the devil says your name."
+  },
+  {
+    "file": "30_ash.png",
+    "style": "ash",
+    "quote": "He wanted the version of me the world was afraid of. So I gave it to him."
+  },
+  {
+    "file": "31_velvet_teal.png",
+    "style": "velvet_teal",
+    "quote": "He loved me like a debt he refused to ever call paid."
+  },
+  {
+    "file": "32_ink.png",
+    "style": "ink",
+    "quote": "He was the worst decision I ever made—twice."
+  },
+  {
+    "file": "33_dusk.png",
+    "style": "dusk",
+    "quote": "I was a locked room. He didn't pick the lock; he waited until I opened it myself."
+  },
+  {
+    "file": "34_oxblood.png",
+    "style": "oxblood",
+    "quote": "He held my face like it was the only true thing he'd ever been handed."
+  },
+  {
+    "file": "35_marble.png",
+    "style": "marble",
+    "quote": "They warned me he'd break my heart. They never warned me he'd guard it with his life."
+  },
+  {
+    "file": "36_velvet_burgundy.png",
+    "style": "velvet_burgundy",
+    "quote": "I asked what he'd do if I left. He said nothing at all—and that was the answer that kept me."
+  },
+  {
+    "file": "37_shadow.png",
+    "style": "shadow",
+    "quote": "Come here, he said, and every safe plan I ever made forgot its own name."
+  },
+  {
+    "file": "38_candle.png",
+    "style": "candle",
+    "quote": "He ruined me for gentle men, and I have never once wanted a refund."
+  },
+  {
+    "file": "39_velvet_emerald.png",
+    "style": "velvet_emerald",
+    "quote": "I was the storm they told him to avoid. He came out to meet me without a coat."
+  },
+  {
+    "file": "40_silk.png",
+    "style": "silk",
+    "quote": "He loved me in a language the good world doesn't teach. I learned it anyway."
+  },
+  {
+    "file": "41_smoke.png",
+    "style": "smoke",
+    "quote": "He didn't want forever. He wanted every version of me that ever existed, all at once."
+  },
+  {
+    "file": "42_velvet_navy.png",
+    "style": "velvet_navy",
+    "quote": "You don't scare me, I said. Good, he answered. You should. I only love you."
+  },
+  {
+    "file": "43_rose.png",
+    "style": "rose",
+    "quote": "I stopped praying to be saved the night I met the thing they were all praying about."
+  },
+  {
+    "file": "44_rain.png",
+    "style": "rain",
+    "quote": "He was made of every warning I'd ever been given. I was so tired of being warned."
+  },
+  {
+    "file": "45_parchment.png",
+    "style": "parchment",
+    "quote": "They call it obsession in a man like him, and devotion in a man they approve of."
   }
 ]
